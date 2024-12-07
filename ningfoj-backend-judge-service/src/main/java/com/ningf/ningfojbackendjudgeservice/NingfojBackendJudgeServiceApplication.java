@@ -17,6 +17,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class NingfojBackendJudgeServiceApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(NingfojBackendJudgeServiceApplication.class, args);
     }
 
