@@ -11,19 +11,19 @@
 
 ##### 业务流程图
 
-![业务流程图](D:\ningfOJ\ningfoj-backend-microservice\images\img.png)
+![业务流程图](images/img.png)
 
 ##### 序列图
 
-![序列图](D:\ningfOJ\ningfoj-backend-microservice\images\img_1.png)
+![序列图](images/img_1.png)
 
 ##### 软件结构图
 
-![软件结构图](D:\ningfOJ\ningfoj-backend-microservice\images\img_2.png)
+![软件结构图](images/img_2.png)
 
 ##### 数据库设计
 
-![UML图](D:\ningfOJ\ningfoj-backend-microservice\images\img_3.png)
+![UML图](images/img_3.png)
 
 ##### 技术选型
 ##### 框架
