@@ -1,5 +1,6 @@
 package com.ningf.ningfojbackendjudgeservice;
 
+import com.ningf.ningfojbackendjudgeservice.rabbitmq.InitRabbitMq;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
@@ -17,7 +18,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class NingfojBackendJudgeServiceApplication {
 
     public static void main(String[] args) {
-
+        InitRabbitMq.doInit();
         SpringApplication.run(NingfojBackendJudgeServiceApplication.class, args);
     }
 

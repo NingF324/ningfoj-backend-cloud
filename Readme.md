@@ -49,3 +49,5 @@
 - Hutool工具库
 - Gson解析库
 - Lombok注解
+
+项目笔记整理：[NingFOJ语雀文档](https://www.yuque.com/n1ngf/to0d38)
